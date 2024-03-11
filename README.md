@@ -13,7 +13,7 @@ Welcome to the repository for the Stable Diffusion 1 model implementation using 
 
 ### Usage
 
-1. Open the `stable_diffusion_gradio.ipynb` notebook in Google Colab.
+1. Open the `Stable_diffusion_model.ipynb` notebook in Google Colab.
 2. Make sure to use a GPU runtime for faster image generation.
 3. Run the notebook cells to load the Stable Diffusion 1 model using the Hugging Face API.
 4. Execute the Gradio interface cell to interactively generate images by providing different prompts.
